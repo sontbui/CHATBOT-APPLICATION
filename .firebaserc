@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "chatbot-app-80f33",
+    "staging": "chatbot-app-80f33"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}

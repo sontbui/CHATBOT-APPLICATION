@@ -38,6 +38,7 @@ dependencies:
   # by sontbui add dependencies
   provider: ^6.1.2
   shared_preferences: ^2.2.3
+  firebase_core: ^2.32.0
 
 dev_dependencies:
   flutter_test:
